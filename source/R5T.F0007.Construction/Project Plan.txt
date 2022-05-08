@@ -1,0 +1,3 @@
+R5T.F0007.Construction - Construction project for Generation, composite, functionality for Roslyn syntax elements..
+
+GOALS:
