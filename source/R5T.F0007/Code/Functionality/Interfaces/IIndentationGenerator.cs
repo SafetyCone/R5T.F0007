@@ -25,7 +25,7 @@ namespace R5T.F0007
         public SyntaxTriviaList ForType()
         {
             var output = Instances.SpacingGenerator.ByTabCount(
-                Instances.TabCounts.ForTypeDeclaration);
+                Instances.TabCounts.TypeDeclarationTabCount);
 
             return output;
         }
